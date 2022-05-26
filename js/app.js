@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/WebARTrek.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/WebAR.github.io.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;
